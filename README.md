@@ -8,4 +8,4 @@ ROS 1
 Rosserial 
 Platform IO
 ## Architecture:
-
+![arch](https://github.com/ayushle/5dof-Manipulator-firmware/blob/main/5dof-Manipulator-arch.drawio.png)
