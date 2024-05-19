@@ -7,5 +7,5 @@ Jetson orin
 ROS 1
 Rosserial 
 Platform IO
-## Firmware:
+## Architecture:
 
