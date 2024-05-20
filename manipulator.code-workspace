@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "rmcs_control",
+			"path": "../rmcs_control"
+		}
+	],
+	"settings": {}
+}
