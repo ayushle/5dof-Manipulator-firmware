@@ -1,5 +1,5 @@
 > [!NOTE]
-> - This repository contians three branches:
+> This repository contians three branches:
 > - main: general instruction.
 > - firmware: microcontroller platform io workspace
 > - joystick: ROS workspace for joystick teleoperation
