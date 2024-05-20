@@ -1,0 +1,8 @@
+prefix=/home/ayush/Documents/joystick/devel
+
+Name: joyy
+Description: Description of joyy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
